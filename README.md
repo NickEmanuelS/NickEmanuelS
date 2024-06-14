@@ -5,13 +5,15 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-emanuel-soares-de-pinho-a99772186/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasssoaress/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasdipinho@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-emanuel-soares-de-pinho-a99772186/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasdipinho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasssoaress/)  
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
+
+<br/>
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NickEmanuelS&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickEmanuelS&theme=highcontrast)](https://git.io/streak-stats)
