@@ -10,7 +10,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasdipinho@gmail.com) 
 
 ---
+
+### :fire: My Stats :
+
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NickEmanuelS&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickEmanuelS&theme=highcontrast)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmanuelS&layout=compact&theme=highcontrast) 
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmanuelS&layout=compact&theme=highcontrast) -->
 ---
